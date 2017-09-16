@@ -9,4 +9,5 @@ int main() {
   scanf("%hu", &B);
   Soma = A + B;
   printf("Soma de %hu com %hu = %hu", A, B, Soma);
+  printf("mudo");
 }
